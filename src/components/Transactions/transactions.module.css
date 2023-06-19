@@ -1,0 +1,10 @@
+.transactionHistory {
+    border: 3px solid #0000ff;
+    width: 700px;
+    text-align: center;
+    border-radius: 20px;
+    background-color: rgb(205, 215, 13);
+    box-shadow: 1px -1px 5px 6px rgba(0, 0, 0, 0.81) inset;
+    -webkit-box-shadow: 1px -1px 5px 6px rgba(0, 0, 0, 0.81) inset;
+    -moz-box-shadow: 1px -1px 5px 6px rgba(0, 0, 0, 0.81) inset;
+  }
